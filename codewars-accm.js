@@ -23,7 +23,7 @@ function accum(s){
     for(var i=0;i<letter.length;i++){
         result.push(letter[i].toUpperCase()+Array(i+1).join(letter[i].toLowerCase()));
     }
-    
+
     return result.join('_');
 }
 //输出
