@@ -6,3 +6,6 @@ function disemvowel(str) {
     return str.replace(/[aeiou]/gi,'');
 }
 // console.log(disemvowel('aabbbccee'));
+
+// 还是mdn靠谱
+// https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/replace
