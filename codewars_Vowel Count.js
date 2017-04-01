@@ -26,8 +26,12 @@
 //     return vowelCount;
 // }
 // console.log(getCount('aeyou'));
+//
+// //最优解 match方法
+// function getCount(str) {
+//     return (str.match(/[aeiou]/ig)||[]).length;
+// }
 
-//最优解
 function getCount(str) {
-    return (str.match(/[aeiou]/ig)||[]).length;
+    return str.replace(/[^aeiou]/gi, '').length;
 }
