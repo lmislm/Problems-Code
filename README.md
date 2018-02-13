@@ -12,8 +12,14 @@
 |     |     |     |     |     |     |   [Mumbling][21] >> [mySolution][22] |
 |     |     |     |     |     |     |  [Exes and Ohs][23] >>[mySolution][24] |
 
+### < Leetcode >
 
-
+|  Easy   |    |  Mid    |     |  Hard   |     |
+| --- | --- | --- | --- | --- | --- |
+|   [Reverse Integer][25] >>mySolution  |     |     |     |     |     |
+|     |     |     |     |     |     |
+|     |     |     |     |     |     |
+|     |     |     |     |     |     |
 
 
   [1]: https://www.codewars.com/kata/515bb423de843ea99400000a
@@ -40,4 +46,4 @@
   [22]: https://github.com/lmislm/Problems-Code/blob/master/Codewars-jsCodes/codewars-accm.js
   [23]: https://www.codewars.com/kata/55908aad6620c066bc00002a
   [24]: https://www.codewars.com/kata/55908aad6620c066bc00002a
-  [25]: https://www.codewars.com/kata/525f039017c7cd0e1a000a26
+  [25]: https://leetcode.com/problems/reverse-integer/description/

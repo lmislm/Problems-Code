@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ec18dce-09fb-4dc0-8b49-4ce97aeda7c7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/IP Validation_codewars.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars-countTheDigit.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars-ooxx.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars_Disemvowel_Trolls.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars_Don't rely on luck..js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars_Find_the_missing_letter_6.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars_PaginationHelper.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars_Palindrome_Chain_Length.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars_RGB To Hex Conversion.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars_Regex_validate_PIN_code.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars_Replace With Alphabet Position.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars_The_Highest_Profit_Wins.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars_Vowel Count.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/ReverseInteger.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/IP Validation_codewars.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars-accm.js" afterPath="$PROJECT_DIR$/Codewars-jsCodes/codewars-accm.js" />
-      <change beforePath="$PROJECT_DIR$/codewars-countTheDigit.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars-ooxx.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars_Disemvowel_Trolls.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars_Don't rely on luck..js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars_Find_the_missing_letter_6.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars_PaginationHelper.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars_Palindrome_Chain_Length.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars_RGB To Hex Conversion.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars_Regex_validate_PIN_code.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars_Replace With Alphabet Position.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars_The_Highest_Profit_Wins.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codewars_Vowel Count.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/进制转换.js" afterPath="$PROJECT_DIR$/Codewars-jsCodes/进制转换.js" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,7 +24,33 @@
     <favorites_list name="codewars_ex" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="ReverseInteger.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode/ReverseInteger.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc;n#Reverse#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="965">
+                <caret line="48" column="66" lean-forward="false" selection-start-line="48" selection-start-column="66" selection-end-line="48" selection-end-column="66" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,6 +88,8 @@
         <option value="$PROJECT_DIR$/qw.js" />
         <option value="$PROJECT_DIR$/l.js" />
         <option value="$PROJECT_DIR$/IP Validation_codewars.js" />
+        <option value="$PROJECT_DIR$/Leetcode/ReverseInteger.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -98,8 +100,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="263" />
-    <option name="y" value="6" />
+    <option name="x" value="122" />
+    <option name="y" value="37" />
     <option name="width" value="1016" />
     <option name="height" value="744" />
   </component>
@@ -127,11 +129,6 @@
             <path>
               <item name="Problems-Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Problems-Code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Problems-Code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Problems-Code" type="462c0819:PsiDirectoryNode" />
-              <item name="Codewars-jsCodes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,8 +164,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.codewars_Replace With Alphabet Position.js">
-    <configuration name="codewars_Disemvowel_Trolls.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="codewars_Disemvowel_Trolls.js" working-dir="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Node.js.ReverseInteger.js">
+    <configuration name="ReverseInteger.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="ReverseInteger.js" working-dir="$PROJECT_DIR$/Leetcode" />
     <configuration name="codewars_RGB To Hex Conversion_lab.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/codewars_RGB To Hex Conversion.js" working-dir="$PROJECT_DIR$" />
     <configuration name="codewars_Replace With Alphabet Position.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="codewars_Replace With Alphabet Position.js" working-dir="$PROJECT_DIR$" />
     <configuration name="codewars_Vowel Count.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="codewars_Vowel Count.js" working-dir="$PROJECT_DIR$" />
@@ -241,19 +238,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.lab.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.codewars_Disemvowel_Trolls.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.codewars_Vowel Count.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.tst.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.codewars_RGB To Hex Conversion_lab.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.codewars_Replace With Alphabet Position.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.codewars_Vowel Count.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.tst.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.codewars_RGB To Hex Conversion_lab.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.codewars_Replace With Alphabet Position.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.ReverseInteger.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.codewars_Replace With Alphabet Position.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.codewars_RGB To Hex Conversion_lab.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.tst.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.codewars_Vowel Count.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.codewars_Disemvowel_Trolls.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ReverseInteger.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.codewars_Replace With Alphabet Position.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.codewars_RGB To Hex Conversion_lab.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.tst.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.codewars_Vowel Count.js" />
       </list>
     </recent_temporary>
   </component>
@@ -294,6 +291,7 @@
       <workItem from="1494946764672" duration="64000" />
       <workItem from="1518241805100" duration="3779000" />
       <workItem from="1518523201528" duration="84000" />
+      <workItem from="1518526135252" duration="6196000" />
     </task>
     <task id="LOCAL-00001" summary="猜数字 codewars">
       <created>1490876762996</created>
@@ -362,7 +360,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68805000" />
+    <option name="totallyTimeSpent" value="75001000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,18 +372,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="263" y="6" width="1016" height="744" extended-state="0" />
+    <frame x="122" y="37" width="1016" height="744" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15848671" sideWeight="0.49344262" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17075665" sideWeight="0.49344262" order="0" side_tool="false" content_ui="combo" x="720" y="290" width="177" height="415" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.352459" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4147541" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="424" y="219" width="734" height="330" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34797296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="424" y="219" width="734" height="330" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13913691" sideWeight="0.5065574" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39836067" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39695945" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32838285" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -440,48 +438,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/codewars_Vowel Count.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Disemvowel_Trolls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="98" lean-forward="false" selection-start-line="10" selection-start-column="98" selection-end-line="10" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Don't rely on luck..js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Disemvowel_Trolls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="98" lean-forward="true" selection-start-line="10" selection-start-column="98" selection-end-line="10" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Don't rely on luck..js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Disemvowel_Trolls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars_Don't rely on luck..js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Disemvowel_Trolls.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Don't rely on luck..js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Disemvowel_Trolls.js" />
     <entry file="file://$PROJECT_DIR$/Codewars-jsCodes/codewars-accm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -489,41 +449,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars-countTheDigit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_The_Highest_Profit_Wins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Regex_validate_PIN_code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Find_the_missing_letter_6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js" />
+    <entry file="file://$PROJECT_DIR$/codewars-countTheDigit.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_The_Highest_Profit_Wins.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Regex_validate_PIN_code.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Find_the_missing_letter_6.js" />
     <entry file="file://$PROJECT_DIR$/codewars_PaginationHelper.js" />
     <entry file="file://$PROJECT_DIR$/Codewars-jsCodes/codewars-accm.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -532,41 +462,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars-countTheDigit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_The_Highest_Profit_Wins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Regex_validate_PIN_code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Find_the_missing_letter_6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js" />
+    <entry file="file://$PROJECT_DIR$/codewars-countTheDigit.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_The_Highest_Profit_Wins.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Regex_validate_PIN_code.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Find_the_missing_letter_6.js" />
     <entry file="file://$PROJECT_DIR$/Codewars-jsCodes/codewars-accm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -574,20 +474,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars-countTheDigit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js" />
+    <entry file="file://$PROJECT_DIR$/codewars-countTheDigit.js" />
     <entry file="file://$PROJECT_DIR$/Codewars-jsCodes/codewars-accm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -595,13 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js" />
     <entry file="file://$PROJECT_DIR$/Codewars-jsCodes/codewars-accm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -609,13 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js" />
     <entry file="file://$PROJECT_DIR$/Codewars-jsCodes/codewars-accm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -625,20 +501,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codewars_Good_vs_Evil.js" />
     <entry file="file://$PROJECT_DIR$/Djistela.js" />
-    <entry file="file://$PROJECT_DIR$/codewars_The_Highest_Profit_Wins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars_The_Highest_Profit_Wins.js" />
+    <entry file="file://$PROJECT_DIR$/codewars-ooxx.js" />
     <entry file="file://$PROJECT_DIR$/tst.js" />
     <entry file="file://$PROJECT_DIR$/Codewars-jsCodes/codewars-accm.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -647,21 +511,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_RGB To Hex Conversion.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="23" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars_RGB To Hex Conversion.js" />
     <entry file="file://$PROJECT_DIR$/lab.js" />
-    <entry file="file://$PROJECT_DIR$/codewars_Vowel Count.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars_Vowel Count.js" />
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js" />
     <entry file="file://$PROJECT_DIR$/Codewars-jsCodes/进制转换.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -673,75 +525,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/儿童.js" />
     <entry file="file://$PROJECT_DIR$/qw.js" />
-    <entry file="file://$PROJECT_DIR$/codewars-countTheDigit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="1" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars-countTheDigit.js" />
     <entry file="file://$PROJECT_DIR$/l.js" />
-    <entry file="file://$PROJECT_DIR$/codewars_Palindrome_Chain_Length.js">
+    <entry file="file://$PROJECT_DIR$/codewars_Palindrome_Chain_Length.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Find_the_missing_letter_6.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Don't rely on luck..js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Disemvowel_Trolls.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Regex_validate_PIN_code.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_Replace With Alphabet Position.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_RGB To Hex Conversion.js" />
+    <entry file="file://$PROJECT_DIR$/codewars_PaginationHelper.js" />
+    <entry file="file://$PROJECT_DIR$/IP Validation_codewars.js" />
+    <entry file="file://$PROJECT_DIR$/Leetcode/ReverseInteger.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="135">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc;n#Reverse#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Find_the_missing_letter_6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Don't rely on luck..js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Disemvowel_Trolls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Regex_validate_PIN_code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_Replace With Alphabet Position.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_RGB To Hex Conversion.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="961">
-          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codewars_PaginationHelper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2015">
-          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IP Validation_codewars.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="965">
+            <caret line="48" column="66" lean-forward="false" selection-start-line="48" selection-start-column="66" selection-end-line="48" selection-end-column="66" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
