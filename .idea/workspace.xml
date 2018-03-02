@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ec18dce-09fb-4dc0-8b49-4ce97aeda7c7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Leetcode/ReverseInteger.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="0ec18dce-09fb-4dc0-8b49-4ce97aeda7c7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -291,7 +287,7 @@
       <workItem from="1494946764672" duration="64000" />
       <workItem from="1518241805100" duration="3779000" />
       <workItem from="1518523201528" duration="84000" />
-      <workItem from="1518526135252" duration="6196000" />
+      <workItem from="1518526135252" duration="6825000" />
     </task>
     <task id="LOCAL-00001" summary="猜数字 codewars">
       <created>1490876762996</created>
@@ -356,11 +352,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518245582934</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Reverse Integer">
+      <created>1518532362999</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1518532362999</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75001000" />
+    <option name="totallyTimeSpent" value="75630000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -379,7 +382,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.352459" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34797296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="424" y="219" width="734" height="330" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34797296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="424" y="219" width="734" height="330" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13913691" sideWeight="0.5065574" order="2" side_tool="true" content_ui="tabs" />
@@ -431,7 +434,8 @@
     <MESSAGE value="codewars_RGB To Hex Conversion_lab" />
     <MESSAGE value="codewars_Replace With Alphabet Position.js" />
     <MESSAGE value="IP Validation" />
-    <option name="LAST_COMMIT_MESSAGE" value="IP Validation" />
+    <MESSAGE value="Reverse Integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse Integer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
