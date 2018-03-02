@@ -2,8 +2,9 @@
  * @Author: lmislm 
  * @Date: 2018-03-02 16:03:40 
  * @Last Modified by: lmislm
- * @Last Modified time: 2018-03-02 22:03:43
+ * @Last Modified time: 2018-03-02 22:14:41
  */
+//https://leetcode.com/problems/string-to-integer-atoi/description/
 var myAtoi = function (str) {   
     //return str.trim().match(/^([+-])?([0-9]+)/m).shift().toString();
     //slice in leetcode cant read property
@@ -35,3 +36,4 @@ console.log(myAtoi(' 123'));
 console.log(myAtoi('-123'));
 console.log(myAtoi('123'));
 console.log(myAtoi(' -123'));
+console.log(myAtoi(' -123a12'));
