@@ -2,7 +2,7 @@
  * @Author: lmislm 
  * @Date: 2018-03-11 20:31:12 
  * @Last Modified by: lmislm
- * @Last Modified time: 2018-03-12 22:54:09
+ * @Last Modified time: 2018-03-12 23:01:09
  */
 
 //  给出一串字符返回其中出现 次数最多 的符号
@@ -10,15 +10,27 @@
 // maxChar("abbbcde") === "b"
 // maxChar("cdfsss 1111223") === "1"
 
-// function maxChar(str) {
+function maxChar(str) {
+    const charMap = {};
+    let max = 0;
+    let maxChar = '';
     
-// }
+    for(let char of str) {
+        if(charMap[char]) {
+            charMap[char]++;
+        } else {
+            charMap[char] = 1;
+        }
+    }
 
-// module.exports = maxChar;
+    // console.log(charMap);
+}
+
+module.exports = maxChar;
 
 
-const string = "hello there!"
-const chars = {};
+// const string = "hello there!"
+// const chars = {};
 
 // 简化
 // for(let char of string) {
