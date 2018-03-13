@@ -2,7 +2,7 @@
  * @Author: lmislm 
  * @Date: 2018-03-11 20:31:12 
  * @Last Modified by: lmislm
- * @Last Modified time: 2018-03-12 23:01:09
+ * @Last Modified time: 2018-03-13 14:21:21
  */
 
 //  给出一串字符返回其中出现 次数最多 的符号
@@ -14,7 +14,7 @@ function maxChar(str) {
     const charMap = {};
     let max = 0;
     let maxChar = '';
-    
+    //let of 不从o开始循环，let in 从o开始循环
     for(let char of str) {
         if(charMap[char]) {
             charMap[char]++;
@@ -22,6 +22,14 @@ function maxChar(str) {
             charMap[char] = 1;
         }
     }
+
+    for(let char in charMap) {
+        if(charMap[char] > max) {
+            max = charMap[char];
+            maxChar = char;
+        }
+    }
+    return maxChar;
 
     // console.log(charMap);
 }
