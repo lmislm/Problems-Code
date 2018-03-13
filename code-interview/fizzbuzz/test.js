@@ -6,7 +6,7 @@
  });
 
  test('1到5,输出了5次', () => {
-    expect(5);
+    fizzbuzz(5);
 
     expect(console.log.mock.calls.length).toEqual(5);
  });
