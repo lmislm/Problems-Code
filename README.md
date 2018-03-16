@@ -21,6 +21,11 @@
 |     |     |     |     |     |     |
 |     |     |     |     |     |     |
 
+### < code-Interview >
+
+|  |  |  |
+| --- | --- | --- |
+| 字符反转（三种方法） | 回文（两种方法） |  |
 
   [1]: https://www.codewars.com/kata/515bb423de843ea99400000a
   [2]: https://github.com/lmislm/Problems-Code/blob/master/Codewars-jsCodes/codewars_PaginationHelper.js
