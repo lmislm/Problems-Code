@@ -2,7 +2,7 @@
  * @Author: lmislm 
  * @Date: 2018-03-15 21:27:05 
  * @Last Modified by: lmislm
- * @Last Modified time: 2018-03-16 12:00:39
+ * @Last Modified time: 2018-03-16 13:25:02
  */
 
 
@@ -17,30 +17,43 @@
 // --例子(stringA中字符等于stringB中字符）
 // anagram('earth', 'heart') --> true
 
+// 方法二
 function anagram(stringA, stringB) {
-    const aCharMap = buildCharMap(stringA);
-    const bCharMap = buildCharMap(stringB);
+    return cleanString(stringA) === cleanString(stringB);
+}
 
-    if(Object.keys(aCharMap).length !== Object.keys(bCharMap).length) {
-        return false;
-    }
+function cleanString (str) {
+    return str.replace(/[^\w]/g, '')
+                .toLowerCase().split('').sort()
+                .join('');
+}
+
+
+
+// 方法一
+// function anagram(stringA, stringB) {
+//     const aCharMap = buildCharMap(stringA);
+//     const bCharMap = buildCharMap(stringB);
+
+//     if(Object.keys(aCharMap).length !== Object.keys(bCharMap).length) {
+//         return false;
+//     }
     
-    for(let char in aCharMap) {
-        if(aCharMap[char] !== bCharMap[char]) {
-            return false;
-        }
-    }
-    return true;
-}
+//     for(let char in aCharMap) {
+//         if(aCharMap[char] !== bCharMap[char]) {
+//             return false;
+//         }
+//     }
+//     return true;
+// }
 
-function buildCharMap(str) {
-    const charMap = {};
+// function buildCharMap(str) {
+//     const charMap = {};
 
-    for(let char of str.replace(/[^\w]/g, '').toLowerCase()) {
-        charMap[char] = charMap[char] + 1 || 1;
-    }
+//     for(let char of str.replace(/[^\w]/g, '').toLowerCase()) {
+//         charMap[char] = charMap[char] + 1 || 1;
+//     }
 
-    return charMap;
-}
-
+//     return charMap;
+// }
 module.exports = anagram;
