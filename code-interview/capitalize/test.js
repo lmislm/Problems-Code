@@ -12,7 +12,7 @@ test('字母大写化', () => {
 });
 
 test('词首字母大写', () => {
-    expect(capitalize('ma name is lmislm')).toEqual(
+    expect(capitalize('my name is lmislm')).toEqual(
         'My Name Is Lmislm'
     );
 });
