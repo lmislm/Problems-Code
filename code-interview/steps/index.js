@@ -14,9 +14,27 @@
 //      '****'
 //column 行；row 列；
 
-function steps(n) {}
+function steps(n) {
+  if (n === 0) {
+  }
+}
 
 module.exports = steps;
+
+// 99乘法表
+// function steps(n) {
+//   for (let row = 1; row <= n; row++) {
+//     let stair = '';
+//     for (let column = 1; column <= n; column++) {
+//       if (column <= row) {
+//         stair += `${column}*${row}=${row * column}\t`;
+//       } else {
+//         stair += ' ';
+//       }
+//     }
+//     console.log(stair);
+//   }
+// }
 
 // 方法一
 // function steps(n) {
