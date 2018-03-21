@@ -13,10 +13,27 @@
 //      '*** '
 //      '****'
 //column 行；row 列；
-
-function steps(n) {
-  if (n === 0) {
+/* 以下为示例参考代码 */
+function steps(n, row = 0, stair = '') {
+  if (n === row) {
+    return;
   }
+
+  if (n === stair.length) {
+    console.log(stair);
+    return steps(n, row + 1);
+  }
+  // 代码简化
+  const add = stair.length <= row ? '*' : ' ';
+  steps(n, row, stair + add);
+
+  /*   if (stair.length <= row) {
+    stair += '#';
+  } else {
+    stair += ' ';
+  }
+  steps(n, row, stair)
+ */
 }
 
 module.exports = steps;
