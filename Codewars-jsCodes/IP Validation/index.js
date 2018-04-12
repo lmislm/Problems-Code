@@ -3,13 +3,17 @@
  * Github：https://github.com/lmislm/
  */
 function isValidIP(str) {
-    var arr = str.split('.');
+  var arr = str.split('.');
 
-    return arr.filter(function (value) {
-        //Number
-        return value == Number(value).toString() && Number(value) <= 255;
-    }).length==4;
+  return (
+    arr.filter(function(value) {
+      //Number
+      return value == Number(value).toString() && Number(value) <= 255;
+    }).length == 4
+  );
 }
+
+module.exports = isValidIP;
 //这个还要自己写测试代码，晕，大概这么个意思
 // var
 //     v,
