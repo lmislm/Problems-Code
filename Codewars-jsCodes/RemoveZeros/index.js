@@ -38,7 +38,7 @@ function removeZeros(array) {
         array[j] = array[j + 1];
       }
       array[array.length - 1] = zeros_tmp;
-      //下一个zero位置变动
+      //下一个zero,位置变动
       i--;
       len--;
     }
