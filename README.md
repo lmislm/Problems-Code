@@ -25,9 +25,9 @@
 
 ### < code-Interview >
 
-|                      |                  |     |
-| -------------------- | ---------------- | --- |
-| 字符反转（三种方法） | 回文（两种方法） |     |
+|                            |                        |     |
+| -------------------------- | ---------------------- | --- |
+| [字符反转（三种方法）][27] | [回文（两种方法）][28] |     |
 
 [1]: https://www.codewars.com/kata/515bb423de843ea99400000a
 [2]: https://github.com/lmislm/Problems-Code/blob/master/Codewars-jsCodes/codewars_PaginationHelper.js
@@ -55,3 +55,5 @@
 [24]: https://www.codewars.com/kata/55908aad6620c066bc00002a
 [25]: https://leetcode.com/problems/reverse-integer/description/
 [26]: https://github.com/lmislm/Problems-Code/blob/master/Codewars-jsCodes/RemoveZeros/index.js
+[27]: https://github.com/lmislm/Problems-Code/tree/master/code-interview/reversestring
+[28]: https://github.com/lmislm/Problems-Code/blob/master/code-interview/palindrome/index.js
